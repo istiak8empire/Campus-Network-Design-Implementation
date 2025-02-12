@@ -1,1 +1,3 @@
 # Campus-Network-Design-Implementation
+
+In this project, the network scenario establishes an IP address allocation system using a single DHCP server in the Server room. Furthermore, custom HTTP code for the web and FTP servers is implemented here. Employ a Serial Connection to connect routers and utilize the EIGRP routing protocol. This scenario focuses on designing an efficient LAN (Local Area Network) where various computers from different departments interact and exchange data. The objective is to create a well-structured network topology that enables seamless communication among multiple departments, meeting all network requirements. CNS delivers a high-performance network solution to fulfill these objectives.
