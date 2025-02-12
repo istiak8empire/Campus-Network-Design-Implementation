@@ -1,0 +1,16 @@
+ABBREVIATIONS:
+
+
+MSE: Mobility Service Engine 
+UCS: Unified Computing System 
+RFP: Request For Proposal 
+IP: Internet Protocol 
+RIP: Routing Information Protocol  
+RPP: Routing Protocol Plan 
+OS: Operating System 
+OSI: Open Systems Interconnection 
+FTP: File Transfer Protocol 
+DNS: Domain Name System 
+LAN: Local Area Network 
+VLAN: Virtual Local Area Network
+DHCP: Dynamic Host Configuration Protocol
